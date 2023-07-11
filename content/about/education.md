@@ -27,8 +27,8 @@ experience:
     company_url: ''
     company_logo: org-x
     location: Shenyang
-    date_start: '2020-06'
-    date_end: '2024-09'
+    date_start: '2020-06-01'
+    date_end: '2024-09-01'
     description: |2-
         * Hi
         * Hi too
