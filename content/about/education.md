@@ -22,17 +22,17 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-#   - title: Bachelor’s degree in Applied Physics
-#     company: Nothereast University
-#     company_url: ''
-#     company_logo: org-x
-#     location: Shenyang
-#     date_start: '2020-6-10'
-#     date_end: '2024-9-10'
-#     description: |2-
-#         * Hi
-#         * Hi too
-#         * Hi again
+  - title: Bachelor’s degree in Applied Physics
+    company: Nothereast University
+    company_url: ''
+    company_logo: org-x
+    location: Shenyang
+    date_start: '2020-06'
+    date_end: '2024-09'
+    description: |2-
+        * Hi
+        * Hi too
+        * Hi again
 
   - title: BEng Electronic Engineering
     company: University X
