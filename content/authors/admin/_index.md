@@ -55,7 +55,7 @@ social:
 
 # Uncomment below for Github link
 #- icon: github
-#  icon_pack: fab
+#  icon_pack: fabp
 #  link: https://github.com/gcushen
 
 # Link to a PDF of your resume/CV from the About widget.
