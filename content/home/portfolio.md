@@ -30,6 +30,8 @@ content:
       tag: '*'
     - name: Particle Physics
       tag: pp
+    - name: quantum mechanics
+      tag: qm
     - name: Cosmology
       tag: cosmo
     - name: Others
