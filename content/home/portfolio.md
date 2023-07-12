@@ -29,9 +29,11 @@ content:
     - name: All
       tag: '*'
     - name: Particle Physics
-      tag: PP
+      tag: pp
     - name: Cosmology
-      tag: Cosmo
+      tag: cosmo
+    - name: Others
+      tag: others
     # - name: NLP
     #   tag: NLP
 
