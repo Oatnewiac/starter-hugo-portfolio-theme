@@ -34,8 +34,6 @@ content:
       tag: cosmo
     - name: Others
       tag: others
-    # - name: NLP
-    #   tag: NLP
 
 design:
   columns: '1'
