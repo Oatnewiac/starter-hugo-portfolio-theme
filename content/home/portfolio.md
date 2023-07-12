@@ -29,9 +29,9 @@ content:
     - name: All
       tag: '*'
     - name: Particle Physics
-      tag: pp
+      tag: PP
     - name: quantum mechanics
-      tag: qm
+      tag: QM
     - name: Cosmology
       tag: cosmo
     - name: Others

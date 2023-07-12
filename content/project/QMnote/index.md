@@ -2,7 +2,7 @@
 title: Quantum mechanics lecture notes
 summary: Notes for the 2022 fall Quantum Mechanics course
 tags:
-  - qm
+  - QM
 date: 2022-07-01
 ---
 [toc]
