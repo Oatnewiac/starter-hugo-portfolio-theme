@@ -51,6 +51,11 @@ social:
     icon_pack: fab
     link: https://www.zhihu.com/people/yong-ji-83-69
 
+# creat profile icon
+    - icon: user
+        icon_pack: fas
+        link: https://caiwt.one/
+
 #   - icon: twitter
 #     icon_pack: fab
 #     link: https://twitter.com/wowchemy
