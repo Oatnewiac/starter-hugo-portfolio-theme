@@ -31,7 +31,9 @@ $$\color{red}{\hat H(\hat a_-\psi) = (E-\hbar \omega)(\hat{a}_{-} \psi)}$$
 
 in detail
 
+{{< math >}}
 $$\begin{aligned}\hat{H}\left(\hat{a}_{-} \psi\right) &=\hbar \omega\left(\hat{a}_{-} \hat{a}_{+}-\frac{1}{2}\right)\left(\hat{a}_{-} \psi\right)=\hbar \omega \hat{a}_{-}\left(\hat{a}_{+} \hat{a}_{-}-\frac{1}{2}\right) \psi \\&=\hat{a}_{-}\left[\hbar \omega\left(\hat{a}_{-} \hat{a}_{+}-1-\frac{1}{2}\right) \psi\right]=\hat{a}_{-}(\hat{H}-\hbar \omega) \psi=\hat{a}_{-}(E-\hbar \omega) \psi \\&=(E-\hbar \omega)\left(\hat{a}_{-} \psi\right)\end{aligned}$$
+{{< \math >}}
 
 Similarly, $\color{red}{\hat H(\hat a_+\psi) = (E+\hbar \omega)(\hat{a}_{+} \psi)}$ is also established, and those are why they are called *ladder operators*. 
 
