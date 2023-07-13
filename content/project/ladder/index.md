@@ -28,6 +28,7 @@ $$\hat H = \hbar\omega(\hat a_-\hat a_+ - {1 \over 2})  \quad or \quad \hat H = 
 
 With these two formulas, we are now going to prove that $\hat a_-\psi$ is a solution to the TISE with energy $E-\hbar \omega$, which is 
 $$\color{red}{\hat H(\hat a_-\psi) = (E-\hbar \omega)(\hat{a}_{-} \psi)}$$
+in detail
 $$
 \begin{aligned}
 \hat{H}\left(\hat{a}_{-} \psi\right) &=\hbar \omega\left(\hat{a}_{-} \hat{a}_{+}-\frac{1}{2}\right)\left(\hat{a}_{-} \psi\right)=\hbar \omega \hat{a}_{-}\left(\hat{a}_{+} \hat{a}_{-}-\frac{1}{2}\right) \psi \\
@@ -51,7 +52,7 @@ We simply apply the raising operator (repeatedly) to generate the <font color=re
 
 $$\psi_{n}=\frac{1}{\sqrt{n !}}\left(\hat{a}_{+}\right)^{n} \psi_{0},\quad \text{with}\quad E_n = (n+\dfrac12 )\hbar \omega$$
 
-
+The illustration are as following
 
 <center> 
 
