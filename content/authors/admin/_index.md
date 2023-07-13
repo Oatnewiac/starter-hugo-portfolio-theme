@@ -46,8 +46,9 @@ social:
     icon_pack: fas
     link: "mailto:cai.wentao@outlook.com" # For a direct email link, use "mailto:test@example.org".
 
+# creat zhihu icon
   - icon: zhihu
-    icon_pack: fas
+    icon_pack: fab
     link: https://www.zhihu.com/people/yong-ji-83-69
 
 #   - icon: twitter
