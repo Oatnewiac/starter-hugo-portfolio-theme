@@ -53,6 +53,7 @@ The illustration are as following
 <center> 
 
 ![SHO](featured.png) </center>
+
 How we determinated coefficient:
 $$\braket{\hat a_+\psi|\hat a_+\psi} = \braket{ \psi | \hat a_-\hat a_+\psi   }= \left(\dfrac{E}{\hbar \omega} + \dfrac12\right)\braket{\psi|\psi}=    (n+1)\braket{\psi|\psi} $$
 here we used $E = (n+1/2)\hbar\omega$ and $\braket{\psi_n|\psi_n} = \braket{\psi_{n+1}|\psi_{n+1}} = 1$ (normalization). Simlarly
