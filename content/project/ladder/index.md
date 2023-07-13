@@ -26,16 +26,14 @@ $$[\hat a_-,\hat a_+] =  \hat a_-\hat a_+ - \hat a_+\hat a_- =1$$
 So we can rewrite the Hamiltonian by ladder operators
 $$\hat H = \hbar\omega(\hat a_-\hat a_+ - {1 \over 2})  \quad or \quad \hat H =  \hbar\omega(\hat a_+\hat a_- + {1 \over 2})  $$
 
-With these two formulas, we are now going to prove that $\hat a_-\psi$ is a solution to the TISE with energy $E-\hbar \omega$, which is 
+With these two formulas, we are now going to prove that $\hat a_-\psi$ is a solution to the TISE with energy $E-\hbar \omega$, which is
 $$\color{red}{\hat H(\hat a_-\psi) = (E-\hbar \omega)(\hat{a}_{-} \psi)}$$
 in detail
-$$
-\begin{aligned}
+$$\begin{aligned}
 \hat{H}\left(\hat{a}_{-} \psi\right) &=\hbar \omega\left(\hat{a}_{-} \hat{a}_{+}-\frac{1}{2}\right)\left(\hat{a}_{-} \psi\right)=\hbar \omega \hat{a}_{-}\left(\hat{a}_{+} \hat{a}_{-}-\frac{1}{2}\right) \psi \\
 &=\hat{a}_{-}\left[\hbar \omega\left(\hat{a}_{-} \hat{a}_{+}-1-\frac{1}{2}\right) \psi\right]=\hat{a}_{-}(\hat{H}-\hbar \omega) \psi=\hat{a}_{-}(E-\hbar \omega) \psi \\
 &=(E-\hbar \omega)\left(\hat{a}_{-} \psi\right)
-\end{aligned}
-$$
+\end{aligned}$$
 
 Similarly, $\color{red}{\hat H(\hat a_+\psi) = (E+\hbar \omega)(\hat{a}_{+} \psi)}$ is also established, and those are why they are called *ladder operators*. 
 
@@ -47,8 +45,6 @@ Solve the equation and introduce the normalization condition ($\int |\psi_0|^2 \
 $$\psi_{0}(x)=\left(\frac{m \omega}{\pi \hbar}\right)^{1 / 4} e^{-\frac{m \omega}{2 \hbar} x^{2}}$$
 
 We simply apply the raising operator (repeatedly) to generate the <font color=red>excited states</font>, increasing the energy by $\hbar \omega$ with each step
-
-
 
 $$\psi_{n}=\frac{1}{\sqrt{n !}}\left(\hat{a}_{+}\right)^{n} \psi_{0},\quad \text{with}\quad E_n = (n+\dfrac12 )\hbar \omega$$
 
