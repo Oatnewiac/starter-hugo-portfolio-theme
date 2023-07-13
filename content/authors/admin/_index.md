@@ -46,15 +46,16 @@ social:
     icon_pack: fas
     link: "mailto:cai.wentao@outlook.com" # For a direct email link, use "mailto:test@example.org".
 
+# creat profile icon
+    - icon: user
+        icon_pack: fas
+        link: https://caiwt.one/
+        
 # creat zhihu icon
   - icon: zhihu
     icon_pack: fab
     link: https://www.zhihu.com/people/yong-ji-83-69
 
-# creat profile icon
-    - icon: user
-        icon_pack: fas
-        link: https://caiwt.one/
 
 #   - icon: twitter
 #     icon_pack: fab
