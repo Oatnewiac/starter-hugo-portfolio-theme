@@ -26,7 +26,8 @@ $$[\hat a_-,\hat a_+] =  \hat a_-\hat a_+ - \hat a_+\hat a_- =1$$
 So we can rewrite the Hamiltonian by ladder operators
 $$\hat H = \hbar\omega(\hat a_-\hat a_+ - {1 \over 2})  \quad or \quad \hat H =  \hbar\omega(\hat a_+\hat a_- + {1 \over 2})  $$
 
-With these two formulas, we are now going to prove that $\hat a_-\psi$ is a solution to the TISE with energy $E-\hbar \omega$, which is $\color{red}{\hat H(\hat a_-\psi) = (E-\hbar \omega)(\hat{a}_{-} \psi)}$:
+With these two formulas, we are now going to prove that $\hat a_-\psi$ is a solution to the TISE with energy $E-\hbar \omega$, which is 
+$$\color{red}{\hat H(\hat a_-\psi) = (E-\hbar \omega)(\hat{a}_{-} \psi)}$$
 $$
 \begin{aligned}
 \hat{H}\left(\hat{a}_{-} \psi\right) &=\hbar \omega\left(\hat{a}_{-} \hat{a}_{+}-\frac{1}{2}\right)\left(\hat{a}_{-} \psi\right)=\hbar \omega \hat{a}_{-}\left(\hat{a}_{+} \hat{a}_{-}-\frac{1}{2}\right) \psi \\
@@ -34,9 +35,10 @@ $$
 &=(E-\hbar \omega)\left(\hat{a}_{-} \psi\right)
 \end{aligned}
 $$
+
 Similarly, $\color{red}{\hat H(\hat a_+\psi) = (E+\hbar \omega)(\hat{a}_{+} \psi)}$ is also established, and those are why they are called *ladder operators*. 
 
-If we use lowering operator $\hat a_-$ on $\psi$ multiple times, we end up with TISE with energy $0$ and cannot use it anymore, which is to say, $\exist \psi_0$ makes that there is no state whose wavefunction is $\hat a_-\psi_0$, as a result, its wavefunction can't be normalized for it is 0 everywhere, i.e.
+If we use lowering operator $\hat a_-$ on $\psi$ multiple times, we end up with TISE with energy $0$ and cannot use it anymore, which is to say, there exists $\psi_0$ who makes that there is no state whose wavefunction is $\hat a_-\psi_0$, as a result, its wavefunction can't be normalized for it is 0 everywhere, i.e.
 $$\hat a_-\psi_0 = 0$$
 Here $\psi_0$ is <font color=blue>ground state</font>, which can be obtained by solving the above equation, with $\hat a_- = \dfrac{1}{2m\hbar\omega}(i\hat p+m\omega x)$ and $\hat p = -i\hbar\dfrac{\partial}{\partial x}$, the equation goes
 $$\dfrac{1}{2m\hbar\omega}\left( \hbar\dfrac{\partial}{\partial x}  + m\omega x\right)\psi_0 = 0$$
