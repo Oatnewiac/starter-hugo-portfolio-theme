@@ -33,7 +33,7 @@ content:
     - name: Quantum Mechanics
       tag: QM
     - name: Cosmology
-      tag: cosmo
+      tag: CS
     - name: Others
       tag: others
 
