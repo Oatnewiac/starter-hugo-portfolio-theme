@@ -1,4 +1,4 @@
----
+<!-- ---
 title: Ladder operators
 summary: a solution to one-dimensional harmonic oscillator in infinite potential well
 tags:
@@ -59,4 +59,4 @@ $$\braket{\hat a_+\psi|\hat a_+\psi} = \braket{ \psi | \hat a_-\hat a_+\psi   }=
 here we used $E = (n+1/2)\hbar\omega$ and $\braket{\psi_n|\psi_n} = \braket{\psi_{n+1}|\psi_{n+1}} = 1$ (normalization). Simlarly
 $$\braket{\hat a_-\psi|\hat a_-\psi} = n\braket{\psi|\psi}$$
 So, we get those two formulas:
-$$\hat a_+\psi_n = \sqrt{n+1}\,\psi_{n+1}  \quad   \hat a_-\psi_n = \sqrt{n}\,\psi_{n-1}$$
+$$\hat a_+\psi_n = \sqrt{n+1}\,\psi_{n+1}  \quad   \hat a_-\psi_n = \sqrt{n}\,\psi_{n-1}$$ -->
