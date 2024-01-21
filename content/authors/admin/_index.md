@@ -81,4 +81,4 @@ social:
 
 Hi, Wentao here.
 
-{{< icon name="download" pack="fas" >}} {{< staticref "uploads/resume.pdf" "newtab" >}}Download{{< /staticref >}} my CV as a PDF.
+{{< icon name="download" pack="fas" >}} {{< staticref "uploads/CV_WentaoCai.pdf" "newtab" >}}Download{{< /staticref >}} my CV as a PDF.
