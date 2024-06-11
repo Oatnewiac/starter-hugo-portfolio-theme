@@ -1,5 +1,5 @@
 ---
-title: 毕业答辩
+title: graduation
 summary: 
 tags:
   - PP
